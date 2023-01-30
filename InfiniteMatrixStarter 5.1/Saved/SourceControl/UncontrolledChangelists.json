@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Healthpack.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Materials/MT_Healthpack.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Shake.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Materials/MI_Tunnel2.uasset",
+				"D:/CS415/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/FlashWidget.uasset"
+			]
+		}
+	]
+}
